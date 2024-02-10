@@ -4,7 +4,6 @@
 - 🎯 Objective: to be an excellent dev and contribute to society with my knowledge.
 - ⚡ Fun fact: I like eletronic, chess and soccer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeBatistadosSantos&show_icons=true&theme=tokyonight)
 ##
 <div style="display:flex" >
   <img style="height:7em; widht:7em; top:1em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
